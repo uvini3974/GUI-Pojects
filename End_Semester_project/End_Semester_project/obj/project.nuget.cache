@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8ScLEiEN5GWq+61MeFKzUIOSjBJqEThQB4ydHbJLMlJjpfDs7E7r1jQcQZ7F4hiR+eykgWEFeggSS21eywtMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\End_Semester_project\\End_Semester_project\\End_Semester_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
